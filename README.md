@@ -34,6 +34,10 @@ Go into your theme options (Product Page) and find the sizing guide in the dropd
 
 Now that everything is added to your store, you need to map all your products to the correct printful id.
 
+You'll need to add the printful prodcut ID to your shopify product's `Material` option. See image:
+
+![](printful_id_to_shopify.gif)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
