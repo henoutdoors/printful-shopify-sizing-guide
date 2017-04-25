@@ -28,7 +28,11 @@ Include the size-chart file. Copy and paste this line into your stores `theme.li
 
 Go into your theme options (Product Page) and find the sizing guide in the dropdown list.
 
+![](sizing-chart.png)
 
+## Mapping products to printful
+
+Now that everything is added to your store, you need to map all your products to the correct printful id.
 
 ## License
 
