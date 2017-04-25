@@ -10,7 +10,7 @@ Just click on any product page and then click "Size Guide".
 
 ## Getting Started
 
-First add the [sizing-chart.liquid](sizing-chart.liquid) file to your stores `snippets` folder.
+First add the [size-chart.liquid](size-chart.liquid) file to your stores `snippets` folder.
 
 Include the size-chart file. Copy and paste this line into your stores `theme.liquid` file:
 
